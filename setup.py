@@ -8,7 +8,7 @@ setup(name='snpEffWrapper',
         'scripts/snpEffBuildAndRun'
       ],
       install_requires=[
-        'setuptools==58',
+        'setuptools==84.1.0',
         'Jinja2',
         'PyVCF3',
         'PyYAML'
